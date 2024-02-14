@@ -32,6 +32,8 @@
 		  return '☁️'; 
 		case 'rain':
 		  return '🌧️'; 
+      case 'drizzle':
+		  return '🌧️'; 
 		default:
 		  return '';
 	  }
